@@ -21,9 +21,21 @@ a{
   text-decoration: none;
 }
 
+.nav-links{
+  padding-top: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+}
+
 ul{
   display:flex;  
   list-style:none;
+}
+
+.logo{
+  height: 30px;
+  width: 150px;
 }
 
 .sign-up-btn{
@@ -31,6 +43,22 @@ ul{
 }
 
 .navbar{
+  margin-top: 10px;
   margin-left: 100px;
   margin-right: 100px;
 }
+
+/* Rectangle 2 */
+.sign-in-btn{
+  border-radius: 52px;
+  width: 100px;
+  height: 30px;
+left: 1737px;
+top: 36px;
+background: #FFFFFF;
+}
+
+
+
+
+
