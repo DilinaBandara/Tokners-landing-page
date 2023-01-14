@@ -43,7 +43,7 @@ ul{
 }
 
 .navbar{
-  margin-top: 10px;
+
   margin-left: 100px;
   margin-right: 100px;
 }
@@ -53,12 +53,40 @@ ul{
   border-radius: 52px;
   width: 100px;
   height: 30px;
-left: 1737px;
+left: 173px;
 top: 36px;
 background: #FFFFFF;
 }
 
+.base-img{
+  position: absolute;
+  left: 20px;
+  right: 100px;
+  top: 0px;
+  z-index: -1;
+  height: 800px;
+  width: 800px;
+  margin-left: 800px;
+}
 
+.base-img2{
+  position: absolute;
+  left: 20px;
+  right: 100px;
+  top: 0px;
+  z-index: -1;
+  height: 600px;
+  margin-left: 880px;
+}
+.base-img3{
+  position: absolute;
+  left: 20px;
+  right: 100px;
+  top: 0px;
+  z-index: -1;
+  height: 500px;
+  margin-left: 1170px;
+}
 
 
 
